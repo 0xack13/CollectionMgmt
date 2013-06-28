@@ -6,7 +6,17 @@
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 <script type="text/javascript" src="jquery.calendars.js"></script>
 <script type="text/javascript" src="jquery.calendars.plus.js"></script>
+<script type="text/javascript" src="jquery.calendars.taiwan.js"></script>
+<script type="text/javascript" src="jquery.calendars.thai.js"></script>
+<script type="text/javascript" src="jquery.calendars.julian.js"></script>
+<script type="text/javascript" src="jquery.calendars.persian.js"></script>
 <script type="text/javascript" src="jquery.calendars.islamic.js"></script>
+<script type="text/javascript" src="jquery.calendars.ummalqura.js"></script>
+<script type="text/javascript" src="jquery.calendars.hebrew.js"></script>
+<script type="text/javascript" src="jquery.calendars.coptic.js"></script>
+<script type="text/javascript" src="jquery.calendars.ethiopian.js"></script>
+<script type="text/javascript" src="jquery.calendars.nepali.js"></script>
+<script type="text/javascript" src="jquery.calendars.mayan.js"></script>
 <script type="text/javascript">
 $(function() {
 	var calendar;
